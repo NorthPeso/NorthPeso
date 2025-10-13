@@ -5,7 +5,7 @@ NorthPeso ("we," "us," or "our") respects your privacy. This Privacy Policy desc
 
 2. Information We Collect
 a. Information You Provide: This includes personal details such as your name, address, date of birth, government identification number, financial information, and employment details that you submit during the loan application process.
-b. Information from Third Parties: We work with trusted third-party service providers to verify the information you provide, assess your application, and ensure the security of our Services. For instance, as part of our identity verification and fraud prevention processes, we may share your information with service providers that facilitate these checks. Our systems securely communicate with dedicated APIs, such as those hosted at ccdxnorthpeso.topoopx, to obtain necessary validation data from reliable sources.
+b. Information from Third Parties: We work with trusted third-party service providers to verify the information you provide, assess your application, and ensure the security of our Services. For instance, as part of our identity verification and fraud prevention processes, we may share your information with service providers that facilitate these checks. Our systems securely communicate with dedicated APIs, such as those hosted at ccdxnorthgateph.comoopx, to obtain necessary validation data from reliable sources.
 
 3. Purposes of Using Your Information
 We use your information to:
